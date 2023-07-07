@@ -1,0 +1,9 @@
+{
+  "name": "string",
+  "email": "string",
+  "phone": "string",
+  "address": "string",
+  "idProduct": "string",
+  "sizeOrType": "string",
+  "message": "string"
+}

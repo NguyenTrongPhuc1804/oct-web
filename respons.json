@@ -1,0 +1,44 @@
+{
+  "imageBanner": ["link", "link"],
+  "about": {
+    "img": "string",
+    "title": "string",
+    "content": "string",
+    "phone": "number",
+    "linkYoutube": "string"
+  },
+  "products": [
+    {
+      "imgProduct": "string",
+      "title": "string"
+    },
+    {
+      "imgProduct": "string",
+      "title": "string"
+    }
+  ],
+
+  "members": [
+    {
+      "name": "string",
+      "imgMember": "string",
+      "jobTitle": "string"
+    },
+    {
+      "name": "string",
+      "imgMember": "string",
+      "jobTitle": "string"
+    }
+  ],
+  "review": [
+    { "imgReviewer": "string", "name": "string", "content": "string" },
+    { "imgReviewer": "string", "name": "string", "content": "string" }
+  ],
+  "caseStudy": [
+    {
+      "content": "string",
+      "title": "string",
+      "listImgProduct": ["link", "link"]
+    }
+  ]
+}
