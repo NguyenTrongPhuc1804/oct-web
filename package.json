@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "REACT_APP_NODE_ENV=dev vite",
     "win": "vite",
+    "build": "vite build",
     "build:prod": "REACT_APP_NODE_ENV=prod vite build",
     "preview": "vite preview",
     "lint": "eslint .",
